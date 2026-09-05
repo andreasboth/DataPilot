@@ -1,0 +1,6 @@
+{
+  "name": "DataPilot Platform",
+  "description": "Industry-agnostic Local-First modular software platform with CamperPilot prototype, CamperDeck, CamperFlow, and resilient offline telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
